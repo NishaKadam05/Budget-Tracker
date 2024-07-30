@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.section{
+    width: 50%;
+    border: 1px solid;
+}
+
+.row{
+    margin: 40px;
+}
